@@ -1,0 +1,5 @@
+Currently Only MacOS is Present, PreAlpha means not Ready to use, Application is provided Without Strict Garantee, License not OSI.
+
+All others platform Windows, Linux, HaikuOS STILL under TEST, Dummy "Hello world" is provided instead
+
+
